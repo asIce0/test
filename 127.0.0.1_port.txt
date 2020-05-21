@@ -18,4 +18,3 @@ else:
 sock.close()
 
 #注意：python3 里 input() 默认接收到的是 str 类型。将输入转换数值型
-#测试修改
